@@ -1,0 +1,21 @@
+body{
+
+    background-color: lightskyblue
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: beige;
+    padding: px;
+    margin: 0px;
+
+}
+.navbar a{
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: lightblue;
+}
