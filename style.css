@@ -28,3 +28,19 @@ body{
 .navbar a:hover{
     background-color: lightblue;
 }
+audio{
+    padding: 10px;
+    margin: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+brands{
+    padding: 0px;
+    margin: 10px;
+    display: block;
+    
+    text-align: center;
+    
+}
