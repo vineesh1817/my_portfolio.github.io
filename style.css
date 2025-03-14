@@ -9,11 +9,12 @@ header{
 
 body{
 
-    background-color: lightskyblue
+    background: rgb(34,193,195);
+background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
 }
 .navbar ul{
     list-style-type: none;
-    background-color: beige;
+    background-color: #fdbb2d;
     padding: 0px;
     margin: 0px;
 
@@ -26,7 +27,7 @@ body{
     text-align: center;
 }
 .navbar a:hover{
-    background-color: lightblue;
+    background-color: #22c1c3;
 }
 audio{
     padding: 10px;
@@ -43,4 +44,12 @@ brands{
     
     text-align: center;
     
+}
+header0{
+    padding:10px;
+    margin: 5px;
+   display: block;
+    text-align: left;
+    font-size: 17px;
+    color: black;
 }
